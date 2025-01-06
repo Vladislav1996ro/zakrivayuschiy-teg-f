@@ -340,19 +340,19 @@
   block-size: 38px;
 }
 
-@media (width < 375px) {
+@media (width < 376px) {
   .button__memory {
     flex-direction: column;
   }
 
   .card__title {
     padding: 5px 10px 5px;
-    line-height: 113%;
+    line-height: 121%;
   }
 
   .card__image-label {
-    top: 22px;
-    right: 11px;
+    top: 25px;
+    right: 13px;
   }
 
   .diskette {
